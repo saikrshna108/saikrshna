@@ -1,1 +1,1 @@
-harekrshna
+print("harekrshna")
